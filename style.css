@@ -58,6 +58,12 @@ body {
   background: #ffffff;
 }
 
+button {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+}
+
 .visually-hidden {
     position: absolute;
   
@@ -520,5 +526,3 @@ body {
       display: none;
     }
 }
-
-
